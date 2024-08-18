@@ -91,14 +91,3 @@ This project is a simple command-line implementation of a Kanban-style board, al
 - `Functions.c`: Contains the core functions for managing lists and items.
 - `Functions.h`: Header file with function declarations.
 
-## Contributing
-
-Feel free to fork this repository and contribute by submitting a pull request. Please ensure that your code follows the project's coding style.
-
-## License
-
-This project is open-source and available under the MIT License.
-
----
-
-Developed by [Your Name]
