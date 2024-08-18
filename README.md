@@ -85,12 +85,19 @@ This project is a simple command-line implementation of a Kanban-style board, al
     loadList("kanban_board.txt", &lists);
     ```
 - Note that the function only works on the following file structure;
+
   Person:
+
   item
+
   item
+
   item
+
   Person:
+
   item
+
   ...
 
 ## File Structure
